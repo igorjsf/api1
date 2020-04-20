@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.api1.demo",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "6.1.2",
+    "applicationType": "gateway",
+    "baseName": "API1",
+    "packageName": "com.api1.demo",
+    "packageFolder": "com/api1/demo",
+    "serverPort": "9090",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NTcxNjBlZjEwMWNhYzMzNWIwNGE1NjU1YjBhYTIyOWRiNjM1ZGI4ZDJiYjYyOTJiZDVhNGI1MWFlYzU0M2M0YzgzMjNjMWM4N2NlMjhmZDZiNzM0Yzc5OGYyZjBmMmM4Y2EwYjZmOTI0NDdiMTJkYThmNjg2OWY3MDBjNjdmNTQ=",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": ["en"]
+  }
+}
